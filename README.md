@@ -1,7 +1,6 @@
 # MathManiac
-Simple calculator app (ICE Task 2)
 
-# MathManiac
+Simple calculator app (ICE Task 2)
 
 MathManiac is an Android application designed to make learning mathematics fun and engaging. Whether you're a student looking to improve your math skills or someone who enjoys mathematical challenges, MathManiac provides an interactive and enjoyable learning experience.
 
